@@ -73,7 +73,7 @@ VITE_SUPABASE_PROJECT_ID="<your-project-id>"
 
 
 npm run dev
-# open http://localhost:5173
+ open http://localhost:5173
 
 4. Build for production
 
